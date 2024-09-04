@@ -1,7 +1,8 @@
 # Kat's Bookshelf
 A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) courses for ambitious adult learners.
 
-Note: This collection is an early work in progress. See the [roadmap](#roadmap) for additional information.
+> [!WARNING]
+> This collection is an early work in progress. See the [roadmap](#roadmap) for additional information.
 
 ## Contents
 
@@ -17,11 +18,16 @@ This is not intended to be a comprehensive library of textbooks; It is a small, 
 
 Due to GitHub’s limitations, only documentation is stored in the repository. The course collection itself can be downloaded from the [releases page](https://github.com/transkatgirl/kats-bookshelf/releases).
 
-Make sure to download all zip files under the release. When importing the collection into Portal, move all downloaded zip files into the resource folder.
+> [!IMPORTANT]
+> Make sure to download and import *all* zip files included in the release.
 
 ### Sources Used
 
-TODO
+The following open-access textbook publishers and/or repositories were used (or will be used in the near future) to provide textbooks for the bookshelf:
+
+- [OpenStax](https://openstax.org)
+- [LibreTexts Libraries](https://libretexts.org/platforms/libraries/)
+- [CORE Econ](https://www.core-econ.org)
 
 ## Roadmap
 
