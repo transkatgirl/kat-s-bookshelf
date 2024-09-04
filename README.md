@@ -37,8 +37,8 @@ This collection is a work in progress. The release roadmap is listed below:
 	- The collection will initially contain a small set of mathematics courses.
 	- During this initial period, a focus will be made on finding and fixing conversion errors in this small initial set of courses.
 	- Once all courses in the initial set have been evaluated, the following additional courses will be added after completing evaluation:
-		- Further in-depth mathematics courses
-		- Introductory-level natural sciences courses
+		- Intermediate-level mathematics courses
+		- Introductory and intermediate level natural sciences courses
 		- Introductory-level social sciences courses
 		- Introductory-level humanities courses
 	- Once all planned v0.x introductory courses have been added, the bookshelf will move to v1.x
@@ -48,6 +48,7 @@ This collection is a work in progress. The release roadmap is listed below:
 		- Further in-depth natural sciences courses
 		- Introductory-level business courses
 		- Basic life-skills courses
+		- Additional introductory-level social sciences and humanities courses
 	- Once sufficient breadth has been achieved, the bookshelf will move to v2.x
 - v2.x - Further Expansion
 	- During this period, a focus will be put on maintaining existing courses rather than adding new ones. New courses will focus primarily on increasing bookshelf depth rather than breadth.
