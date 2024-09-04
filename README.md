@@ -48,6 +48,7 @@ This collection is a work in progress. The release roadmap is listed below:
 		- Further in-depth natural sciences courses
 		- Introductory-level business courses
 		- Basic life-skills courses
+		- Additional textbook sources 
 	- Once all planned v1.x introductory courses have been added, the bookshelf will move to v2.x
 - v2.x - Further Expansion
 	- During this period, a focus will be put on maintaining existing courses rather than adding new ones. New courses will focus primarily on increasing bookshelf depth rather than breadth.
