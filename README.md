@@ -34,7 +34,7 @@ The following open-access textbook publishers and/or repositories were used (or 
 This collection is a work in progress. The release roadmap is listed below:
 
 - v0.x - Proof of Concept
-	- The collection will initially contain a small set of mathematics courses.
+	- The collection will initially contain a small set of introductory-level mathematics courses.
 	- During this initial period, a focus will be made on finding and fixing conversion errors in this small initial set of courses.
 	- Once all courses in the initial set have been evaluated, the following additional courses will be added after completing evaluation:
 		- Intermediate-level mathematics courses
