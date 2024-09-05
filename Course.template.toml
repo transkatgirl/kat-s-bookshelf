@@ -1,3 +1,5 @@
+#:schema ../../Resource%20Schema/Course.json
+
 title = "[title]"
 description = """Published by [publisher], license [license]
 Downloaded from [url] on [date]
@@ -10,10 +12,10 @@ This course was created for use in the Kat's Bookshelf collection."""
 
 # Manually modified to incorporate external answer keys.
 
-[[books]]
-label = "Volume 1"
-file  = ""
-
+# [[books]]
+# label = "Volume 1"
+# file  = ""
+#
 # [[books.chapters]]
 # root = ""
 #
