@@ -2,7 +2,7 @@
 A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) courses for ambitious adult learners.
 
 > [!WARNING]
-> This collection is an work in progress. See the [roadmap](#roadmap) for additional information.
+> This collection is a work in progress. See the [roadmap](#roadmap) for additional information.
 
 ## Contents
 
