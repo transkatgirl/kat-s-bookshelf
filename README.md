@@ -35,11 +35,12 @@ This collection is a work in progress. The release roadmap is listed below:
 
 - v0.x - Proof of Concept
 	- The collection will start with an initial set of courses:
-		- Introductory and intermediate level mathematics courses
-		- Introductory and intermediate level natural sciences courses
+		- Introductory and (some) intermediate level mathematics courses
+		- Introductory and (some) intermediate level natural sciences courses
 		- Introductory-level social sciences courses
  		- Introductory-level humanities courses
-	- During this initial period, a focus will be put on finding and fixing conversion errors in this initial set, rather than adding new courses.
+	- During this initial period, a focus will be put on finding and fixing errors in existing courses rather than adding new ones.
+		- Some additional intermediate level mathematics and natural sciences courses will be added during v0.x.
 	- Once all planned v0.x courses have been reviewed for errors, the bookshelf will move to v1.x. This review process is expected to be completed before the end of 2025.
 - v1.x - Building Upon The Foundation
 	- The following additional courses will be added in the v1.x release:
