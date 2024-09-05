@@ -10,7 +10,7 @@ A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) c
 
 ## Contents
 
-Kat's Bookshelf aims to cover a wide range of subjects. Most subjects only have introductory courses, but some subjects with extensive real-world applications are covered in additional depth. The vast majority of content on the bookshelf covers acedemic subjects, but books covering non-acedemic subjects such as "Self-help" are be included as well.
+Kat's Bookshelf aims to cover a wide range of subjects. Most subjects only have introductory courses, but some subjects with extensive real-world applications are covered in additional depth. The vast majority of content on the bookshelf covers academic subjects, but books covering non-academic subjects such as "Self-help" are be included as well.
 
 Most content on the bookshelf is aimed at college & university level readers. However, courses covering prerequisite knowledge are included whenever possible.
 
@@ -26,7 +26,7 @@ Textbooks from the following open-access publishers and/or OER repositories are 
 - [LibreTexts Libraries](https://libretexts.org/platforms/libraries/)
 - [CORE Econ](https://www.core-econ.org)
 
-### Included Non-Acedemic Books
+### Included Non-Academic Books
 
 The following Self-help / Self-improvement books are included in the bookshelf:
 
