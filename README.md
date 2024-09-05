@@ -2,7 +2,9 @@
 A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) courses for ambitious adult learners.
 
 > [!WARNING]
-> This collection is a work in progress. See the [roadmap](#roadmap) for additional information.
+> This collection is a work in progress, please report any mistakes you find.
+> 
+> See the [roadmap](#roadmap) for additional information.
 
 [Download this collection](https://github.com/transkatgirl/kats-bookshelf/releases)
 
