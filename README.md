@@ -10,7 +10,7 @@ A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) c
 
 ## Contents
 
-Kat's Bookshelf aims to cover a wide range of subjects. Most subjects only have introductory courses, but some subjects with extensive real-world applications are covered in additional depth. The vast majority of content on the bookshelf covers academic subjects, but books covering non-academic subjects such as "Self-help" or basic life skills are included as well.
+Kat's Bookshelf aims to cover a wide range of subjects. Most subjects only have introductory courses, but some subjects with extensive real-world applications are covered in additional depth. The vast majority of content on the bookshelf covers academic subjects, but books covering non-academic subjects such as "Self-Help" or basic life skills are included as well.
 
 Most content on the bookshelf is aimed at college & university level readers. However, courses covering prerequisite knowledge are included whenever possible.
 
@@ -27,14 +27,9 @@ Textbooks from the following open-access publishers and/or OER repositories are 
 - [CORE Econ](https://www.core-econ.org)
 - [Open Textbook Library](https://open.umn.edu/opentextbooks/)
 
-### Included Non-Academic Books
+### Included Self-Help Books
 
-The following Life Skills books are included in the bookshelf:
-
-- [College Success](https://openstax.org/details/books/college-success) by OpenStax
-- [Workplace Software and Skills](https://openstax.org/details/books/workplace-software-skills) by OpenStax
-
-The following Self-help / Self-improvement books are included in the bookshelf:
+The following Self-Help / Self-Improvement books are included in the bookshelf:
 
 - [Rationality: From AI To Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies) by Eliezer Yudkowsky
 
