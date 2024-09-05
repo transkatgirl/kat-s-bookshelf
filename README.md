@@ -42,7 +42,9 @@ Resource importing instructions can be found in [Portal](https://github.com/Scho
 
 ## Roadmap
 
-This collection is a work in progress. The release roadmap is listed below:
+This collection is a work in progress, and development of this collection is expected to slowly take place over multiple years.
+
+The release roadmap is listed below:
 
 - v0.x - Proof of Concept
 	- The collection will start with an initial set of courses:
