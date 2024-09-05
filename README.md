@@ -20,13 +20,19 @@ This is not intended to be a comprehensive library of learning materials; It is 
 
 ### Included Textbooks
 
-Textbooks from the following open-access publishers and/or OER repositories are included in the bookshelf:
+Textbooks from the following open-access publishers and/or OER repositories are included (or will be included) in the bookshelf:
 
 - [OpenStax](https://openstax.org)
 - [LibreTexts Libraries](https://libretexts.org/platforms/libraries/)
 - [CORE Econ](https://www.core-econ.org)
+- [Open Textbook Library](https://open.umn.edu/opentextbooks/)
 
 ### Included Non-Academic Books
+
+The following Life Skills books are included in the bookshelf:
+
+- [College Success](https://openstax.org/details/books/college-success) by OpenStax
+- [Workplace Software and Skills](https://openstax.org/details/books/workplace-software-skills) by OpenStax
 
 The following Self-help / Self-improvement books are included in the bookshelf:
 
