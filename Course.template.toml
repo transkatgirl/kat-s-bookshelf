@@ -1,0 +1,21 @@
+title = "[title]"
+description = """Published by [publisher], license [license]
+Downloaded from [url] on [date]
+
+This course was created for use in the Kat's Bookshelf collection."""
+
+# Converted into EPUB using textbook-dl
+
+# Supplementary material is available in the course folder.
+
+# Manually modified to incorporate external answer keys.
+
+[[books]]
+label = "Volume 1"
+file  = ""
+
+# [[books.chapters]]
+# root = ""
+#
+# [[books.chapters.groups]]
+# sections = [""]
