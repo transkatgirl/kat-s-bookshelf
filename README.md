@@ -10,7 +10,7 @@ A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) c
 
 ## Contents
 
-Kat's Bookshelf aims to cover a wide range of subjects. Most subjects only have introductory courses, but some subjects with extensive real-world applications are covered in additional depth. The vast majority of content on the bookshelf covers academic subjects, but books covering non-academic subjects such as "Self-help" are be included as well.
+Kat's Bookshelf aims to cover a wide range of subjects. Most subjects only have introductory courses, but some subjects with extensive real-world applications are covered in additional depth. The vast majority of content on the bookshelf covers academic subjects, but books covering non-academic subjects such as "Self-help" are included as well.
 
 Most content on the bookshelf is aimed at college & university level readers. However, courses covering prerequisite knowledge are included whenever possible.
 
