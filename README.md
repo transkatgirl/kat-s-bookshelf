@@ -24,12 +24,13 @@ Textbooks from the following open-access publishers and/or OER repositories are 
 - [LibreTexts Libraries](https://libretexts.org/platforms/libraries/)
 - [CORE Econ](https://www.core-econ.org)
 
-
 ### Included Non-Acedemic Books
 
 The following Self-help / Self-improvement books are included in the bookshelf:
 
-- 
+- [Rationality: From AI To Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies) by Eliezer Yudkowsky
+
+Additional books in this category will be added in the future.
 
 ## Downloading & Importing
 
@@ -47,6 +48,7 @@ This collection is a work in progress. The release roadmap is listed below:
 		- Introductory and (some) intermediate level natural sciences courses
 		- Introductory-level social sciences courses
  		- Introductory-level humanities courses
+		- 1 Self-improvement course
 	- During this initial period, a focus will be put on primarily finding and fixing errors in existing courses rather than adding new ones.
 		- Additional intermediate-level mathematics and natural sciences courses will be added during v0.x.
 		- Some course textbooks may be replaced during v0.x.
