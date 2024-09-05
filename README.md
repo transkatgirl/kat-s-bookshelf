@@ -55,8 +55,8 @@ This collection is a work in progress. The release roadmap is listed below:
 		- Additional intermediate-level mathematics and natural sciences courses will be added during v0.x.
 		- Some course textbooks may be replaced during v0.x.
 	- Once all planned v0.x courses have been reviewed for errors, the bookshelf will move to v1.x.
-- v1.x - Building Upon The Foundation
-	- The following additional courses will be added in the v1.x release:
+- v1.x
+	- The following additional courses will be added in v1.x releases:
 		- Further in-depth mathematics courses
 		- Further in-depth natural sciences courses
 		- Additional breadth of natural sciences courses
@@ -65,6 +65,4 @@ This collection is a work in progress. The release roadmap is listed below:
 		- Basic life-skills courses
 		- Self-improvement courses
 		- Additional textbook sources
-	- Once all planned v1.x introductory courses have been added, the bookshelf will move to v2.x
-- v2.x - Further Expansion
-	- During this period, a focus will be put on maintaining existing courses rather than adding new ones. New courses will focus primarily on increasing bookshelf depth rather than breadth.
+	- Once all planned v1.x courses have been added, the focus will shift towards maintaining existing courses rather than adding new ones. New courses will focus primarily on increasing bookshelf depth rather than breadth.
