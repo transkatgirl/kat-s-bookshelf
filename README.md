@@ -59,7 +59,7 @@ This collection is a work in progress. The release roadmap is listed below:
 	- The following additional courses will be added in the v1.x release:
 		- Further in-depth mathematics courses
 		- Further in-depth natural sciences courses
-		- Additional introductory-level natural sciences courses
+		- Additional breadth of natural sciences courses
  	  	- Additional introductory-level social sciences courses
 		- Introductory-level business courses
 		- Basic life-skills courses
