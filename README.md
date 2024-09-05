@@ -6,13 +6,13 @@ A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) c
 
 ## Contents
 
-The bookshelf aims to cover a wide range of subjects. Most subjects only have introductory courses, but some subjects with extensive real-world applications are covered in additional depth.
+Kat's Bookshelf aims to cover a wide range of subjects. Most subjects only have introductory courses, but some subjects with extensive real-world applications are covered in additional depth. The vast majority of content on the bookshelf covers acedemic subjects, but books covering non-acedemic subjects such as "Self-help" are be included as well.
 
 Most content on the bookshelf is aimed at college & university level readers. However, courses covering prerequisite knowledge are included whenever possible.
 
-All courses included in the bookshelf are made using free, open-access textbooks. Links to the original textbook(s) are included in each course’s description.
+All courses included in the bookshelf are made using free, open-access books. Links to the original books(s) are included in each course’s description.
 
-This is not intended to be a comprehensive library of textbooks; It is a small, hand-curated collection which will slowly grow over time. However, if you would like to suggest improvements to the collection (such as textbook recommendations), please [file an issue](https://github.com/transkatgirl/kats-bookshelf/issues).
+This is not intended to be a comprehensive library of learning materials; It is a small, hand-curated collection which will slowly grow over time. However, if you would like to suggest improvements to the collection (such as book recommendations), please [file an issue](https://github.com/transkatgirl/kats-bookshelf/issues).
 
 ### Downloading
 
@@ -21,13 +21,20 @@ Due to GitHub’s limitations, only documentation is stored in the repository. T
 > [!IMPORTANT]
 > Make sure to download and import *all* zip files included in the release.
 
-### Sources Used
+### Included Textbooks
 
-The following open-access textbook publishers and/or repositories were used (or will be used in the near future) to provide textbooks for the bookshelf:
+Textbooks from the following open-access publishers and/or OER repositories are included in the bookshelf:
 
 - [OpenStax](https://openstax.org)
 - [LibreTexts Libraries](https://libretexts.org/platforms/libraries/)
 - [CORE Econ](https://www.core-econ.org)
+
+
+### Included Non-Acedemic Books
+
+The following Self-help / Self-improvement books are included in the bookshelf:
+
+- 
 
 ## Roadmap
 
