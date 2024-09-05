@@ -1,0 +1,28 @@
+#:schema ../Resource%20Schema/CourseMap.json
+
+title = "Kat's Bookshelf"
+description = """A hand-curated collection of Portal courses for ambitious adult learners.
+
+Each course includes the source URLs of all textbooks it contains, and (if applicable) a list of modifications made to those textbooks. None of the textbook creators or publishers are affiliated with the collection's creator in any way.
+
+This collection is created by transkatgirl. You can find updates to the collection at https://github.com/transkatgirl/kats-bookshelf.
+
+Note: This Course Map does not list any of the Self-help books contained within this collection."""
+
+# [[courses]]
+# uuid  = ""
+# label = ""
+# color = ""
+#
+# [[courses.relations]]
+# uuid = ""
+# type = "Prerequisite"
+#
+# [[courses.relations]]
+# uuid = ""
+# type = "Corequisite"
+#
+# [[courses.relations]]
+# uuid = ""
+# type = "Corequisite"
+# optional = false
