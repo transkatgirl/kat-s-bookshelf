@@ -37,9 +37,13 @@ Additional books in this category will be added in the future.
 
 ## Downloading & Importing
 
+> [!NOTE]
+> It is recommended that you have at least 10GB of available disk space before attempting to import this collection.
+
 This course collection can be downloaded from the [releases page](https://github.com/transkatgirl/kats-bookshelf/releases). Make sure to download and import *all* zip files included in the release.
 
 Resource importing instructions can be found in [Portal](https://github.com/School-of-Life-Project/Portal-App)'s user manual. This manual can be accessed by pressing the `📜 Guide` button on the app's home screen.
+
 
 ## Roadmap
 
