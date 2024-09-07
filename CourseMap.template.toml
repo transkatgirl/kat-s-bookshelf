@@ -13,16 +13,10 @@ Note: This Course Map does not list any of the Self-help books contained within 
 # uuid  = ""
 # label = ""
 # color = ""
-#
+
 # [[courses.relations]]
 # uuid = ""
 # type = "Prerequisite"
-#
-# [[courses.relations]]
-# uuid = ""
 # type = "Corequisite"
-#
-# [[courses.relations]]
-# uuid = ""
-# type = "Corequisite"
+# type = "Layout"
 # optional = false
