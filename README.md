@@ -20,7 +20,7 @@ If you would like to suggest improvements to the collection (such as book recomm
 
 ### Included Subjects
 
-The following acedemic subjects are included in the bookshelf:
+The following academic subjects are included in the bookshelf:
 
 - Mathematics
   - Basic Math (Prealgebra, Algebra, and Trigonometry)
@@ -30,7 +30,6 @@ The following acedemic subjects are included in the bookshelf:
   - Physics
   - Chemistry
   - Biology
-  - Anatomy and Physiology*
 - Social Sciences
   - Economics*
   - Sociology*
@@ -47,12 +46,15 @@ The following acedemic subjects are included in the bookshelf:
 
 \* = The bookshelf only contains introductory material about the subject.
 
-The following acedemic subjects are not yet included in the bookshelf, but will be included in a future release:
+The following academic subjects are not yet included in the bookshelf, but will be included in a future release:
 
 - Business
 - Religious Studies
 - US History
 - US Government
+- Astronomy
+- Earth Sciences
+- Applied Sciences
 
 ### Included Self-Help Books
 
