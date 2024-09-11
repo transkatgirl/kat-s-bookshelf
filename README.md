@@ -24,10 +24,10 @@ If you would like to suggest improvements to the collection (such as book recomm
  
 The following fields of study are covered in the bookshelf:
 
-- Mathematics
-- Physics
-- Chemistry
-- Biology
+- Mathematics (3 textbooks)
+- Physics (1 textbook)
+- Chemistry (2 textbooks)
+- Biology (2 textbooks)
 
 Future releases will slowly improve the coverage depth of these subjects.
 
