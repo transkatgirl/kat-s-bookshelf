@@ -18,9 +18,9 @@ All courses included in the bookshelf are made using free, open-access books. Li
 
 If you would like to suggest improvements to the collection (such as book recommendations), please [file an issue](https://github.com/transkatgirl/kats-bookshelf/issues).
 
-### Included Subjects
+### Included Fields
 
-The following academic subjects are included in the bookshelf:
+The following fields of study are covered in the bookshelf:
 
 - Mathematics
   - Basic Math (Prealgebra, Algebra, and Trigonometry)
@@ -30,23 +30,23 @@ The following academic subjects are included in the bookshelf:
   - Physics
   - Chemistry
   - Biology
-- Social Sciences
+- Social Sciences (introductory only)
   - Economics*
   - Sociology*
   - Political Science*
   - Psychology*
   - Anthropology*
-- Humanities
+- Humanities (introductory only)
   - World History*
   - Philosophy*
   - Composition*
-- Workplace Skills
+- Workplace Skills (introductory only)
   - Software Skills*
   - Programming*
 
-\* = The bookshelf only contains introductory material about the subject.
+\* = The bookshelf only contains introductory material about this field.
 
-The following academic subjects are not yet included in the bookshelf, but will be included in a future release:
+The following academic subjects are not yet included in the bookshelf, but may be included in a future release:
 
 - Business
 - Religious Studies
