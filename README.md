@@ -20,6 +20,8 @@ If you would like to suggest improvements to the collection (such as book recomm
 
 ### Included Fields
 
+#### Deeper Coverage
+ 
 The following fields of study are covered in the bookshelf:
 
 - Mathematics
@@ -29,7 +31,7 @@ The following fields of study are covered in the bookshelf:
 
 Future releases will slowly improve the coverage depth of these subjects.
 
----
+#### Introductory Coverage
 
 The following fields of study have introductory courses in the bookshelf:
 
@@ -43,7 +45,7 @@ The following fields of study have introductory courses in the bookshelf:
 - Composition
 - Workplace Skills
 
----
+#### Planned
 
 The following subjects are not yet included in the bookshelf, but may be included in a future release:
 
