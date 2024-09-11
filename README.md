@@ -40,7 +40,7 @@ The following fields of study have introductory courses in the bookshelf:
 - Political Science
 - Psychology
 - Anthropology
-- World History
+- History
 - Philosophy
 - Composition
 - Workplace Skills
@@ -51,8 +51,6 @@ The following subjects are not yet included in the bookshelf, but may be include
 
 - Business
 - Religious Studies
-- US History
-- US Government
 - Astronomy
 - Earth Sciences
 - Applied Sciences
