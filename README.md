@@ -27,6 +27,10 @@ The following fields of study are covered in the bookshelf:
 - Chemistry
 - Biology
 
+Future releases will slowly improve the coverage depth of these subjects.
+
+---
+
 The following fields of study have introductory courses in the bookshelf:
 
 - Economics
@@ -39,7 +43,9 @@ The following fields of study have introductory courses in the bookshelf:
 - Composition
 - Workplace Skills
 
-The following academic subjects are not yet included in the bookshelf, but may be included in a future release:
+---
+
+The following subjects are not yet included in the bookshelf, but may be included in a future release:
 
 - Business
 - Religious Studies
