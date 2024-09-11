@@ -18,14 +18,41 @@ All courses included in the bookshelf are made using free, open-access books. Li
 
 If you would like to suggest improvements to the collection (such as book recommendations), please [file an issue](https://github.com/transkatgirl/kats-bookshelf/issues).
 
-### Included Textbooks
+### Included Subjects
 
-Textbooks from the following open-access publishers and/or OER repositories are included (or will be included) in the bookshelf:
+The following acedemic subjects are included in the bookshelf:
 
-- [OpenStax](https://openstax.org)
-- [LibreTexts Libraries](https://libretexts.org/platforms/libraries/)
-- [CORE Econ](https://www.core-econ.org)
-- [Open Textbook Library](https://open.umn.edu/opentextbooks/)
+- Mathematics
+  - Basic Math (Prealgebra, Algebra, and Trigonometry)
+  - Statistics*
+  - Calculus*
+- Natural Sciences
+  - Physics
+  - Chemistry
+  - Biology
+  - Anatomy and Physiology*
+- Social Sciences
+  - Economics*
+  - Sociology*
+  - Political Science*
+  - Psychology*
+  - Anthropology*
+- Humanities
+  - World History*
+  - Philosophy*
+  - Composition*
+- Workplace Skills
+  - Software Skills*
+  - Programming*
+
+\* = The bookshelf only contains introductory material about the subject.
+
+The following acedemic subjects are not yet included in the bookshelf, but will be included in a future release:
+
+- Business
+- Religious Studies
+- US History
+- US Government
 
 ### Included Self-Help Books
 
