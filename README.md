@@ -23,28 +23,21 @@ If you would like to suggest improvements to the collection (such as book recomm
 The following fields of study are covered in the bookshelf:
 
 - Mathematics
-  - Basic Math (Prealgebra, Algebra, and Trigonometry)
-  - Statistics*
-  - Calculus*
-- Natural Sciences
-  - Physics
-  - Chemistry
-  - Biology
-- Social Sciences (introductory only)
-  - Economics*
-  - Sociology*
-  - Political Science*
-  - Psychology*
-  - Anthropology*
-- Humanities (introductory only)
-  - World History*
-  - Philosophy*
-  - Composition*
-- Workplace Skills (introductory only)
-  - Software Skills*
-  - Programming*
+- Physics
+- Chemistry
+- Biology
 
-\* = The bookshelf only contains introductory material about this field.
+The following fields of study have introductory courses in the bookshelf:
+
+- Economics
+- Sociology
+- Political Science
+- Psychology
+- Anthropology
+- World History
+- Philosophy
+- Composition
+- Workplace Skills
 
 The following academic subjects are not yet included in the bookshelf, but may be included in a future release:
 
