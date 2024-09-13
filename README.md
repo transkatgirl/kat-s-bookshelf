@@ -60,6 +60,7 @@ The following subjects are not yet included in the bookshelf, but may be include
 The following Self-Help / Self-Improvement books are included in the bookshelf:
 
 - [Rationality: From AI To Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies) by Eliezer Yudkowsky
+- [undoing the pain](https://docs.google.com/document/d/1lR4NWLlCbBAxrXdRiVn82zC3iiF7fATPtVnPA2C1TwU/edit?usp=share_link) by fioraaeterna
 
 Additional books in this category will be added in the future.
 
