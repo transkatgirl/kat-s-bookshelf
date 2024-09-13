@@ -53,6 +53,11 @@ The following subjects are not yet included in the bookshelf, but may be include
 - Earth Sciences
 - Applied Sciences
 
+### Secondary Bookshelves
+In addition to the primary bookshelf, this collection has offshoot projects to cover non-academic subjects:
+
+- [Self-Help Bookshelf](https://github.com/transkatgirl/kats-self-help-bookshelf/)
+
 ## Downloading & Importing
 
 > [!NOTE]
