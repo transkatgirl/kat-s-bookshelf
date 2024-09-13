@@ -10,7 +10,7 @@ A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) c
 
 Kat's Bookshelf is a small, hand-curated collection of courses which will slowly grow over time. The goal of the collection is to offer enough depth and breadth to be a useful starting point for further exploration.
 
-The vast majority of content on the bookshelf covers academic subjects, but high-quality books covering non-academic subjects such as "Self-Help" or life skills are included as well.
+The vast majority of content on the bookshelf covers academic subjects, but books covering non-academic subjects such as "Self-Help" or life skills are included as well.
 
 Most content on the bookshelf is aimed at college & university level readers. However, courses covering prerequisite knowledge are included whenever practical.
 
