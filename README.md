@@ -1,5 +1,5 @@
 # Kat's Bookshelf
-A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) courses made by transkatgirl.
+A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) courses assembled by transkatgirl.
 
 > [!WARNING]
 > This collection is a work in progress, please report any mistakes you find.
