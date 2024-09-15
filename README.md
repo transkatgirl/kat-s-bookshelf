@@ -66,3 +66,6 @@ In addition to the primary bookshelf, this collection has offshoot projects to c
 This course collection can be downloaded from the [releases page](https://github.com/transkatgirl/kats-bookshelf/releases). Make sure to download and import all zip files included in the release.
 
 Resource importing instructions can be found in [Portal](https://github.com/School-of-Life-Project/Portal-App)'s user manual. This manual can be accessed by pressing the `📜 Guide` button on the app's home screen.
+
+> [!NOTE]
+> It may take several minutes to import this collection into Portal. Please be patient and avoid closing the app until the import is complete.
