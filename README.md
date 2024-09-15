@@ -61,7 +61,9 @@ In addition to the primary bookshelf, this collection has offshoot projects to c
 ## Downloading & Importing
 
 > [!NOTE]
-> It is recommended that you have at least 10GB of available disk space before attempting to import this collection. Importing this collection will take a while, avoid closing the app until the import is complete.
+> It is recommended that you have at least 10GB of available disk space before attempting to import this collection.
+> 
+> Importing this collection will take a while. Avoid closing the app until the import is complete.
 
 This course collection can be downloaded from the [releases page](https://github.com/transkatgirl/kats-bookshelf/releases). Make sure to download and import all zip files included in the release.
 
