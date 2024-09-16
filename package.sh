@@ -1,4 +1,4 @@
-cd bookshelf
+cd "bookshelf"
 
 parts=0
 
