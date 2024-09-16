@@ -1,4 +1,4 @@
-cd "package"
+cd "bookshelf"
 
 parts=0
 
