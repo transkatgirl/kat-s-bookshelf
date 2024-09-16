@@ -1,4 +1,4 @@
-cd "bookshelf"
+cd "package"
 
 parts=0
 
@@ -13,7 +13,7 @@ i=1
 for file in *; do
 	if [ -d "$file" ]; then
 		cd "$file"
-		7z a -tzip -mm=Zstd -mx22 -w "../Kats_Bookshelf.$(date -I).Part_${i}_of_${parts}.Portal.zip" "*"
+		7z a -tzip -m0=zstd -mx22 -w "../Kats_Bookshelf.$(date -I).Part_${i}_of_${parts}.Portal.zip" "*"
 		i=$((i+1))
 		cd ".."
 	fi
