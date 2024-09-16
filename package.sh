@@ -12,7 +12,9 @@ i=1
 
 for file in *; do
 	if [ -d "$file" ]; then
-		7z a -tzip -mm=Zstd -mx22 -w "Kats_Bookshelf.$(date -I).Part_${i}_of_${parts}.Portal.zip" "$file/*"
+		cd "$file"
+		7z a -tzip -mm=Zstd -mx22 -w "../Kats_Bookshelf.$(date -I).Part_${i}_of_${parts}.Portal.zip" "*"
 		i=$((i+1))
+		cd ".."
 	fi
 done
