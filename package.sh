@@ -1,5 +1,3 @@
-cd "bookshelf"
-
 parts=0
 
 for file in *; do
