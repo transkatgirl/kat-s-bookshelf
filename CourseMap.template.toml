@@ -5,6 +5,8 @@ description = """A hand-curated collection of Portal courses for ambitious adult
 
 Each course includes the source URLs of all textbooks it contains, and (if applicable) a list of modifications made to those textbooks. None of the textbook creators or publishers are affiliated with the collection's creator in any way.
 
+If the line connecting two or more courses has an arrow, the courses must be completed in sequential order. If the line connecting two or more courses does not have an arrow, the connected courses can be taken at the same time. Dashed connections are optional.
+
 This collection is created by transkatgirl. You can find updates to the collection at https://github.com/transkatgirl/kats-bookshelf."""
 
 # [[courses]]
