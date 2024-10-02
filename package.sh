@@ -16,3 +16,5 @@ for file in *; do
 		cd ".."
 	fi
 done
+
+shasum -a 256 *.Portal.zip
