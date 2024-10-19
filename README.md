@@ -16,11 +16,20 @@ All courses included in the bookshelf are made using free, open-access books. Li
 
 If you would like to suggest improvements to the collection (such as book recommendations), please [file an issue](https://github.com/transkatgirl/kats-bookshelf/issues).
 
+### Included Prerequisites
+
+The following prerequisite textbooks are included in the bookshelf:
+
+- Mathematics
+  - Prealgebra
+  - Elementary Algebra
+  - Elementary Geometry
+
 ### Included Fields
 
 #### Deeper Coverage
  
-The following fields of study are covered in the bookshelf:
+The following fields of study are covered in the bookshelf (excluding prerequisites):
 
 - Mathematics (3 textbooks)
 - Physics (1 textbook)
@@ -31,7 +40,7 @@ Future releases will slowly improve the coverage depth of these subjects.
 
 #### Introductory Coverage
 
-The following fields of study have introductory courses in the bookshelf:
+The following fields of study have introductory courses in the bookshelf (excluding prerequisites):
 
 - Economics
 - Sociology
