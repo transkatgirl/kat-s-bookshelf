@@ -18,7 +18,7 @@ If you would like to suggest improvements to the collection (such as book recomm
 
 ### Included Prerequisites
 
-The following prerequisites are included in the bookshelf:
+The following prerequisite courses are included in the bookshelf:
 
 - Mathematics
   - Prealgebra
