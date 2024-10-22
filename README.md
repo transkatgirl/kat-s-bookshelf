@@ -18,12 +18,13 @@ If you would like to suggest improvements to the collection (such as book recomm
 
 ### Included Prerequisites
 
-The following prerequisite textbooks are included in the bookshelf:
+The following prerequisites are included in the bookshelf:
 
 - Mathematics
   - Prealgebra
   - Elementary Algebra
   - Elementary Geometry
+  - Intermediate Algebra & Trigonometry
 
 ### Included Fields
 
@@ -31,10 +32,10 @@ The following prerequisite textbooks are included in the bookshelf:
  
 The following fields of study are covered in the bookshelf (excluding prerequisites):
 
-- Mathematics (3 textbooks)
-- Physics (1 textbook)
-- Chemistry (2 textbooks)
-- Biology (2 textbooks)
+- Mathematics (2 courses)
+- Physics (1 course)
+- Chemistry (2 courses)
+- Biology (2 courses)
 
 Future releases will slowly improve the coverage depth of these subjects.
 
