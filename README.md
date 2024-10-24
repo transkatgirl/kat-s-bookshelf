@@ -41,7 +41,7 @@ Future releases will slowly improve the coverage depth of these subjects.
 
 #### Introductory Coverage
 
-The following fields of study have introductory courses in the bookshelf (excluding prerequisites):
+The following fields of study have introductory courses in the bookshelf:
 
 - Economics
 - Sociology
@@ -52,6 +52,7 @@ The following fields of study have introductory courses in the bookshelf (exclud
 - Philosophy
 - Composition
 - Workplace Skills
+- Study Skills
 
 #### Planned
 
@@ -79,3 +80,29 @@ In addition to the primary bookshelf, this collection has offshoot projects to c
 This course collection can be downloaded from the [releases page](https://github.com/transkatgirl/kats-bookshelf/releases). Make sure to download and import all zip files included in the release.
 
 Resource importing instructions can be found in [Portal](https://github.com/School-of-Life-Project/Portal-App)'s user manual. This manual can be accessed by pressing the `📜 Guide` button on the app's home screen.
+
+## Relevant Articles
+
+The below articles have been picked by the bookshelf's creator to help provide some guidance to new autodidacts:
+
+- [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
+- [Your Mathematical Potential Has a Limit, but it’s Likely Higher Than You Think](https://www.justinmath.com/your-mathematical-potential-has-a-limit-but-its-likely-higher-than-you-think/)
+- [Play the Long Game](https://theprogressplaybook.beehiiv.com/p/play-the-long-game)
+  - "It is human nature to want immediate results. We are impatient creatures. When the snowball doesn’t start rolling immediately, we give up. This is dangerous, because anything great in life takes time. Any outsized results is the culmination of extraordinary action for a long period of time. There is no hack. There is no magic."
+- [Writing](https://blog.evanchen.cc/2015/03/14/writing/)
+
+In addition, a study skills textbook is included within the bookshelf. Although this included textbook focuses primarily on education within existing educational institutions, most of the advice is still useful outside of that context.
+
+### Autodidacticism + Personal Advancement
+
+- [Liquid vs Illiquid Careers](https://www.lesswrong.com/posts/Sdi7gkKSHkRspqqcG/liquid-vs-illiquid-careers)
+- [Intelligence Killed Genius](https://guzey.com/intelligence-killed-genius/)
+  - "The first requirement to do genius-level work is to not be afraid to do things only geniuses can do, i.e. to have the internal feeling of being better than everyone else in the world.
+    The concept of intelligence kills this feeling. However smart you are, there is someone who is smarter than you. And if there’s someone smarter than you are, it doesn’t make sense to work on the hardest possible problems and to try to change the world - it’s the smartest person’s job.
+    You don’t need need to be the smartest person in the world..."
+  - "Genius is being extremely good at a couple of things that really matter.
+    Genius is having a vision
+    Genius is not the highest g...
+    Genius is like synesthesia. It’s the stray connections between parts of the brain that were not supposed to be connected that make your picture completely different, but might leave you just 2-4 sd to the right in g, orthogonal to intelligence
+    Genius is not being perfect, it’s being unbalanced."
+- [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
