@@ -92,7 +92,7 @@ These articles have been picked by the bookshelf's creator to help provide some 
   - "It is human nature to want immediate results. We are impatient creatures. When the snowball doesn’t start rolling immediately, we give up. This is dangerous, because anything great in life takes time. Any outsized results is the culmination of extraordinary action for a long period of time. There is no hack. There is no magic."
 - [Writing](https://blog.evanchen.cc/2015/03/14/writing/)
 
-In addition, a study skills textbook is included within the bookshelf. Although this included textbook focuses primarily on education within existing educational institutions, most of the advice is still useful outside of that context.
+In addition, a study skills textbook is included within the bookshelf. Although this included textbook focuses primarily on education within existing educational institutions, much of the included advice is still useful outside of that context.
 
 ### Pedagogy
 
