@@ -57,12 +57,12 @@ The following fields of study have introductory courses in the bookshelf:
 The following subjects are not yet included in the bookshelf, but will be included in a future release:
 
 - Business
+- Astronomy
 - Earth Sciences
 
 The following subjects are not yet included in the bookshelf, but may be included in a future release:
 
 - Religious Studies
-- Astronomy
 - Applied Sciences
 
 ### Secondary Bookshelves
