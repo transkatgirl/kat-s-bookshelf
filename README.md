@@ -109,7 +109,7 @@ In addition, a study skills textbook is included within the bookshelf. Although 
 - [Why I Recommend Students NOT Take Notes](https://www.justinmath.com/you-are-not-lazy-you-just-lack-a-habit/)
 - [Layering: Building Structural Integrity in Knowledge](https://www.justinmath.com/layering-building-structural-integrity-in-knowledge/)
 
-### Autodidacticism + Personal Advancement
+### Personal Advancement
 
 - [Liquid vs Illiquid Careers](https://www.lesswrong.com/posts/Sdi7gkKSHkRspqqcG/liquid-vs-illiquid-careers)
 - [Intelligence Killed Genius](https://guzey.com/intelligence-killed-genius/)
