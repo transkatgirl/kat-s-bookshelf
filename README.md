@@ -97,13 +97,14 @@ In addition, a study skills textbook is included within the bookshelf. Although 
 ### Pedagogy
 
 - [Which Cognitive Psychology Findings are Solid, That Can Be Used to Help Students Learn Better?](https://www.justinmath.com/which-cognitive-psychology-findings-are-solid-that-can-be-used-to-help-students-learn-better/)
-  - [Spaced Repetition vs Spiraling](https://www.justinmath.com/spaced-repetition-vs-spiraling/)
   - [Deliberate Practice: The Most Effective Form of Active Learning](https://www.justinmath.com/deliberate-practice-the-most-effective-form-of-active-learning/)
+  - [Spaced Repetition vs Spiraling](https://www.justinmath.com/spaced-repetition-vs-spiraling/)
+  - [If You Want to Learn Algebra, You Need to Have Automaticity on Basic Arithmetic](https://www.justinmath.com/if-you-want-to-learn-algebra-you-need-to-have-automaticity-on-basic-arithmetic/)
+  - [What’s the Best Way to Teach Math: Explicit Instruction or Less Guided Learning?](https://www.justinmath.com/whats-the-best-way-to-teach-math-explicit-instruction-or-less-guided-learning/)
 - [Why It’s So Important to Actively Work Out Problems, Not Just Consume Content, During the Learning Process](https://www.justinmath.com/why-its-so-important-to-actively-work-out-problems/)
   - [Go Through the Question Bank Breadth-First, not Depth-First](https://www.justinmath.com/go-through-the-question-bank-breadth-first-not-depth-first/)
   - [Different Students Need Different Amounts of Practice](https://www.justinmath.com/different-students-need-different-amounts-of-practice/)
 - [Why I Recommend Students NOT Take Notes](https://www.justinmath.com/you-are-not-lazy-you-just-lack-a-habit/)
-- [What’s the Best Way to Teach Math: Explicit Instruction or Less Guided Learning?](https://www.justinmath.com/whats-the-best-way-to-teach-math-explicit-instruction-or-less-guided-learning/)
 
 ### Autodidacticism + Personal Advancement
 
