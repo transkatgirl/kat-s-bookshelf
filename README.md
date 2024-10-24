@@ -88,7 +88,6 @@ These articles have been picked by the bookshelf's creator to help provide some 
 - [Your Mathematical Potential Has a Limit, but it’s Likely Higher Than You Think](https://www.justinmath.com/your-mathematical-potential-has-a-limit-but-its-likely-higher-than-you-think/)
 - [Play the Long Game](https://theprogressplaybook.beehiiv.com/p/play-the-long-game)
   - "It is human nature to want immediate results. We are impatient creatures. When the snowball doesn’t start rolling immediately, we give up. This is dangerous, because anything great in life takes time. Any outsized results is the culmination of extraordinary action for a long period of time. There is no hack. There is no magic."
-- [Writing](https://blog.evanchen.cc/2015/03/14/writing/)
 
 In addition, a study skills textbook is included within the bookshelf. Although this included textbook focuses primarily on education within existing educational institutions, much of the included advice is still useful outside of that context.
 
@@ -104,7 +103,7 @@ In addition, a study skills textbook is included within the bookshelf. Although 
 - [Why It’s So Important to Actively Work Out Problems, Not Just Consume Content, During the Learning Process](https://www.justinmath.com/why-its-so-important-to-actively-work-out-problems/)
   - [Go Through the Question Bank Breadth-First, not Depth-First](https://www.justinmath.com/go-through-the-question-bank-breadth-first-not-depth-first/)
   - [Different Students Need Different Amounts of Practice](https://www.justinmath.com/different-students-need-different-amounts-of-practice/)
-- [Why I Recommend Students NOT Take Notes](https://www.justinmath.com/why-i-recommend-students-not-take-notes/)
+- [Writing](https://blog.evanchen.cc/2015/03/14/writing/)
 - [Layering: Building Structural Integrity in Knowledge](https://www.justinmath.com/layering-building-structural-integrity-in-knowledge/)
 
 ### Personal Advancement
