@@ -28,9 +28,9 @@ The following prerequisite courses are included in the bookshelf:
 
 #### Deeper Coverage
  
-The following fields of study are covered in the bookshelf (excluding prerequisites):
+The following fields of study are covered in the bookshelf:
 
-- Mathematics (2 courses)
+- Mathematics (2 courses, excluding prerequisites)
 - Physics (1 course)
 - Chemistry (2 courses)
 - Biology (2 courses)
