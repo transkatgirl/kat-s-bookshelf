@@ -101,8 +101,8 @@ In addition, a study skills textbook is included within the bookshelf. Although 
     The concept of intelligence kills this feeling. However smart you are, there is someone who is smarter than you. And if there’s someone smarter than you are, it doesn’t make sense to work on the hardest possible problems and to try to change the world - it’s the smartest person’s job.
     You don’t need need to be the smartest person in the world..."
   - "Genius is being extremely good at a couple of things that really matter.
-    Genius is having a vision
+    Genius is having a vision.
     Genius is not the highest g...
-    Genius is like synesthesia. It’s the stray connections between parts of the brain that were not supposed to be connected that make your picture completely different, but might leave you just 2-4 sd to the right in g, orthogonal to intelligence
+    Genius is like synesthesia. It’s the stray connections between parts of the brain that were not supposed to be connected that make your picture completely different, but might leave you just 2-4 sd to the right in g, orthogonal to intelligence.
     Genius is not being perfect, it’s being unbalanced."
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
