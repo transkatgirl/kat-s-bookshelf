@@ -8,9 +8,7 @@ A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) c
 
 ## Contents
 
-Kat's Bookshelf is a small, hand-curated collection of courses which will slowly grow over time. The goal of the collection is to offer enough depth and breadth to be a useful starting point for further exploration, while being entirely free to access.
-
-Content on the bookshelf is aimed at a college-level audience. However, courses covering relevant prerequisite knowledge are included whenever practical.
+Kat's Bookshelf is a small, hand-curated collection of college-level courses which will slowly grow over time. The goal of the collection is to offer enough depth and breadth to be a useful starting point for further exploration.
 
 All courses included in the bookshelf are made using free, open-access books. Links to the original books(s) are included in each course’s description.
 
