@@ -35,7 +35,7 @@ The following fields of study are covered in the bookshelf:
 - Chemistry (2 courses)
 - Biology (2 courses)
 
-Future releases will slowly improve the coverage depth of these subjects.
+Future releases will improve the coverage depth of these subjects.
 
 #### Introductory Coverage
 
@@ -54,12 +54,15 @@ The following fields of study have introductory courses in the bookshelf:
 
 #### Planned
 
-The following subjects are not yet included in the bookshelf, but may be included in a future release:
+The following subjects are not yet included in the bookshelf, but will be included in a future release:
 
 - Business
+- Earth Sciences
+
+The following subjects are not yet included in the bookshelf, but may be included in a future release:
+
 - Religious Studies
 - Astronomy
-- Earth Sciences
 - Applied Sciences
 
 ### Secondary Bookshelves
@@ -89,9 +92,7 @@ These articles have been picked by the bookshelf's creator to help provide some 
 - [Play the Long Game](https://theprogressplaybook.beehiiv.com/p/play-the-long-game)
   - "It is human nature to want immediate results. We are impatient creatures. When the snowball doesn’t start rolling immediately, we give up. This is dangerous, because anything great in life takes time. Any outsized results is the culmination of extraordinary action for a long period of time. There is no hack. There is no magic."
 
-In addition, a study skills textbook is included within the bookshelf. Although this included textbook focuses primarily on education within existing educational institutions, much of the included advice is still useful outside of that context.
-
-### Pedagogy
+### Effective Learning
 
 - [Which Cognitive Psychology Findings are Solid, That Can Be Used to Help Students Learn Better?](https://www.justinmath.com/which-cognitive-psychology-findings-are-solid-that-can-be-used-to-help-students-learn-better/)
   - [Deliberate Practice: The Most Effective Form of Active Learning](https://www.justinmath.com/deliberate-practice-the-most-effective-form-of-active-learning/)
@@ -106,7 +107,9 @@ In addition, a study skills textbook is included within the bookshelf. Although 
 - [Writing](https://blog.evanchen.cc/2015/03/14/writing/)
 - [Layering: Building Structural Integrity in Knowledge](https://www.justinmath.com/layering-building-structural-integrity-in-knowledge/)
 
-### Personal Advancement
+A study skills textbook is included within the bookshelf. Although this included textbook focuses primarily on education within existing educational institutions, much of the included advice is still useful outside of that context.
+
+### Alternative Life Paths
 
 - [Liquid vs Illiquid Careers](https://www.lesswrong.com/posts/Sdi7gkKSHkRspqqcG/liquid-vs-illiquid-careers)
 - [Intelligence Killed Genius](https://guzey.com/intelligence-killed-genius/)
