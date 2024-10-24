@@ -81,7 +81,7 @@ This course collection can be downloaded from the [releases page](https://github
 
 Resource importing instructions can be found in [Portal](https://github.com/School-of-Life-Project/Portal-App)'s user manual. This manual can be accessed by pressing the `📜 Guide` button on the app's home screen.
 
-## Relevant Articles
+## Relevant Reading
 
 These articles have been picked by the bookshelf's creator to help provide some guidance to those who are new to self-guided learning.
 
