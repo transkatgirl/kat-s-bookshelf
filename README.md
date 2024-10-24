@@ -98,6 +98,7 @@ In addition, a study skills textbook is included within the bookshelf. Although 
 
 - [Why It’s So Important to Actively Work Out Problems, Not Just Consume Content, During the Learning Process](https://www.justinmath.com/why-its-so-important-to-actively-work-out-problems/)
   - [Go Through the Question Bank Breadth-First, not Depth-First](https://www.justinmath.com/go-through-the-question-bank-breadth-first-not-depth-first/)
+  - [Different Students Need Different Amounts of Practice](https://www.justinmath.com/different-students-need-different-amounts-of-practice/)
 - [Deliberate Practice: The Most Effective Form of Active Learning](https://www.justinmath.com/deliberate-practice-the-most-effective-form-of-active-learning/)
 - [Why I Recommend Students NOT Take Notes](https://www.justinmath.com/you-are-not-lazy-you-just-lack-a-habit/)
 - [What’s the Best Way to Teach Math: Explicit Instruction or Less Guided Learning?](https://www.justinmath.com/whats-the-best-way-to-teach-math-explicit-instruction-or-less-guided-learning/)
