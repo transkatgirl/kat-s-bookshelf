@@ -8,7 +8,7 @@ A collection of [Portal](https://github.com/School-of-Life-Project/Portal-App) c
 
 ## Contents
 
-Kat's Bookshelf is a small, hand-curated collection of courses which will slowly grow over time. The goal of the collection is to offer enough depth and breadth to be a useful starting point for further exploration.
+Kat's Bookshelf is a small, hand-curated collection of courses which will slowly grow over time. The goal of the collection is to offer enough depth and breadth to be a useful starting point for further exploration, while being entirely free to access.
 
 Content on the bookshelf is aimed at a college-level audience. However, courses covering relevant prerequisite knowledge are included whenever practical.
 
@@ -86,12 +86,21 @@ Resource importing instructions can be found in [Portal](https://github.com/Scho
 The below articles have been picked by the bookshelf's creator to help provide some guidance to new autodidacts:
 
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
+- [You Are NOT Lazy, You Just Lack a Habit](https://www.justinmath.com/you-are-not-lazy-you-just-lack-a-habit/)
 - [Your Mathematical Potential Has a Limit, but it’s Likely Higher Than You Think](https://www.justinmath.com/your-mathematical-potential-has-a-limit-but-its-likely-higher-than-you-think/)
 - [Play the Long Game](https://theprogressplaybook.beehiiv.com/p/play-the-long-game)
   - "It is human nature to want immediate results. We are impatient creatures. When the snowball doesn’t start rolling immediately, we give up. This is dangerous, because anything great in life takes time. Any outsized results is the culmination of extraordinary action for a long period of time. There is no hack. There is no magic."
 - [Writing](https://blog.evanchen.cc/2015/03/14/writing/)
 
 In addition, a study skills textbook is included within the bookshelf. Although this included textbook focuses primarily on education within existing educational institutions, most of the advice is still useful outside of that context.
+
+### Pedagogy
+
+- [Why It’s So Important to Actively Work Out Problems, Not Just Consume Content, During the Learning Process](https://www.justinmath.com/why-its-so-important-to-actively-work-out-problems/)
+- [Deliberate Practice: The Most Effective Form of Active Learning](https://www.justinmath.com/deliberate-practice-the-most-effective-form-of-active-learning/)
+- [Why I Recommend Students NOT Take Notes](https://www.justinmath.com/you-are-not-lazy-you-just-lack-a-habit/)
+- [What’s the Best Way to Teach Math: Explicit Instruction or Less Guided Learning?](https://www.justinmath.com/whats-the-best-way-to-teach-math-explicit-instruction-or-less-guided-learning/)
+- [Spaced repetition is more than memorization – it’s also generalization.](https://www.justinmath.com/spaced-repetition-is-more-than-memorization-its-also-generalization/)
 
 ### Autodidacticism + Personal Advancement
 
