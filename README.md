@@ -69,7 +69,7 @@ The following subjects are not yet included in the bookshelf, but may be include
 In addition to the primary bookshelf, this collection has offshoot projects to cover non-academic subjects:
 
 - [Self-Help Bookshelf](https://github.com/transkatgirl/kats-self-help-bookshelf/#readme)
-  - [Rational Decision Making / LessWrong](https://github.com/transkatgirl/kats-sequence-bookshelf#readme)
+- [Rational Decision Making / LessWrong](https://github.com/transkatgirl/kats-sequence-bookshelf#readme)
 - [Recommended Reading for Autodidacts](https://gist.github.com/transkatgirl/f070573463cd184e7db7296abf3e7ada#file-recommended-reading-for-autodidacts-md)
 
 ## Downloading & Importing
