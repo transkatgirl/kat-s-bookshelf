@@ -107,6 +107,7 @@ In addition, a study skills textbook is included within the bookshelf. Although 
   - [Go Through the Question Bank Breadth-First, not Depth-First](https://www.justinmath.com/go-through-the-question-bank-breadth-first-not-depth-first/)
   - [Different Students Need Different Amounts of Practice](https://www.justinmath.com/different-students-need-different-amounts-of-practice/)
 - [Why I Recommend Students NOT Take Notes](https://www.justinmath.com/you-are-not-lazy-you-just-lack-a-habit/)
+- [Layering: Building Structural Integrity in Knowledge](https://www.justinmath.com/layering-building-structural-integrity-in-knowledge/)
 
 ### Autodidacticism + Personal Advancement
 
