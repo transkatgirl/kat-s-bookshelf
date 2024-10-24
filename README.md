@@ -83,7 +83,7 @@ Resource importing instructions can be found in [Portal](https://github.com/Scho
 
 ## Relevant Articles
 
-The below articles have been picked by the bookshelf's creator to help provide some guidance to new autodidacts:
+These articles have been picked by the bookshelf's creator to help provide some guidance to new autodidacts.
 
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 - [You Are NOT Lazy, You Just Lack a Habit](https://www.justinmath.com/you-are-not-lazy-you-just-lack-a-habit/)
